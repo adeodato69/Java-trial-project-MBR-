@@ -1,3 +1,3 @@
 # Java-trial-project-MBR-
-The first java project I had a part in its creation
-Read the "MBR INVESTMENTS SYSTEM.doc" file for description of how the project works(or is supposed to considering I may have made errors)
+The first java project I had part in its creation
+Read the "MBR INVESTMENTS SYSTEM.doc" file for description of how the project functions and works including the database details.
